@@ -15,11 +15,14 @@ I am an **Applied & (Bio)-Statistician** and **Ph.D. candidate (Applied Statisti
 - **Applied modeling workflows**: study design, statistical analysis plans, model validation, reporting
 - **Teaching materials**: data cleaning, visualization, regression, inference, and interpretation
 
-## Awards & Honors
+## Awards & Honors[^name]
 - Best Graduating Student, School of Sciences, College of Education, Agbor, Delta State, Nigeria (1992)
 - Best Graduating Student in Mathematics, College of Education, Agbor, Delta State, Nigeria (1992)
 - Best Graduating Student in Chemistry, College of Education, Agbor, Delta State, Nigeria (1992)
 - Best Graduating Student in Integrated Science, College of Education, Agbor, Delta State, Nigeria (1992)
+
+[^name]: Some award documents misspell my surname as **AGHAMIEN**. The correct spelling is **AGHAMIE**.
+
 
 ## Teaching & Mentoring (Data Analysis Experience)
 My teaching and training experience includes **hands-on instruction in introductory statistical analysis and applied data methods**, with emphasis on:
