@@ -56,3 +56,7 @@ My teaching and training experience includes **hands-on instruction in introduct
 
 ## Supporting documents
 - [Conference & symposium certificates (PDF)](Sunday%20Aghamie-.pdf)
+
+## Publications & profiles
+- ORCID: https://orcid.org/0009-0000-0212-3926
+
