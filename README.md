@@ -53,3 +53,6 @@ My teaching and training experience includes **hands-on instruction in introduct
 
 ### Supporting documents
 - [Awards evidence (PDF)](SUNNY%20DOCUMENTS.pdf)
+
+## Supporting documents
+- [Conference & symposium certificates (PDF)](Sunday%20Aghamie-.pdf)
